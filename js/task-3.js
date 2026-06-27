@@ -12,4 +12,3 @@ input.addEventListener('input', function () {
     nameOutput.innerHTML = value;
   }
 });
-console.log(nameOutput.textContent);
